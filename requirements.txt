@@ -1,0 +1,2 @@
+# list pip packages here to have them installed at provisioning time
+human-names
