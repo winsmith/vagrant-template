@@ -14,8 +14,6 @@ Should you not modify the files, `vagrant up` will create a machine that has
 - installs all apt-get packages in `packages.txt`
 - installs all python packages in `requirements.txt`
 
-Add more to provision.sh to install more software or do more task 
-
 ## Provisioning
 
 - To install a Debian package during provisioning, add it to the `vagrant/packages.txt` file
